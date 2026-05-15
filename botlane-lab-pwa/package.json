@@ -1,0 +1,9 @@
+
+{
+  "name": "botlane-lab-pwa",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  }
+}
